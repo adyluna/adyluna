@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/adyluna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adyluna&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyluna&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=adyluna&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyluna&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div> <br>
   
   <div display='flex'>
