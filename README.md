@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-
   <p>
   My name is Ady, and I'm 27 years old. <br>
-  I'm a biologist, graduated in Universidade Católica de Pernambuco, 2017 and a Junior Web Developer in carrer transition.<br>
-  I'm currently working as a financial analyst in CSU and studying web development in Trybe.<br>
+  I'm a biologist and Web Developer in career transition.<br>
+  I'm currently working as a financial analyst at CSU CardSystem and studying web development at Trybe.<br>
   Nice to meet you!
   </p>
   
