@@ -2,8 +2,8 @@
 
   <p>
   My name is Ady, and I'm 27 years old. <br>
-  I'm a biologist and Web Developer in career transition.<br>
-  I'm currently working as a financial analyst at CSU CardSystem and studying web development at Trybe.<br>
+  I'm a biologist and Web Developer in career transition,
+    currently studying web development at Trybe.<br>
   Nice to meet you!
   </p>
   
