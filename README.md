@@ -5,6 +5,10 @@
   I'm a biologist and Web Developer in career transition,
     currently studying web development at Trybe.<br>
   Nice to meet you!
+
+  My Linkedin: https://www.linkedin.com/in/ady-leite/
+  
+  My Email: adylunaleite@gmail.com
   </p>
   
 <div align="center">
