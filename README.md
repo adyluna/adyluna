@@ -8,7 +8,7 @@
 
   My Linkedin: https://www.linkedin.com/in/ady-leite/
   
-  My Email: adylunaleite@gmail.com
+  My E-mail: adylunaleite@gmail.com
   </p>
   
 <div align="center">
