@@ -2,8 +2,8 @@
 
   <p>
   My name is Ady, and I'm 27 years old. <br>
-  I'm a biologist and Web Developer,
-    currently studying at Trybe school.<br>
+  I'm a Developer,
+    currently working at Justa as Back End Developer and studying at Trybe school.<br>
   Nice to meet you!
 
   My Linkedin: https://www.linkedin.com/in/ady-leite/
