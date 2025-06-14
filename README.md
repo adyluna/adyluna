@@ -1,8 +1,8 @@
 ### Hi there 👋
 
   <p>
-  My name is Ady, and I'm 29 years old. <br>
-  I'm currently working at Justa as Back End Developer.<br>
+  My name is Ady, and I'm 30 years old. <br>
+  I'm currently working at CI&T as Software Developer.<br>
   Nice to meet you!
 
   My Linkedin: https://www.linkedin.com/in/ady-leite/
